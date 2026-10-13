@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (keep CSVs tracked for this project)
+*.parquet
+*.h5
+*.hdf5
+
+# Outputs (regenerable — commit these after running main.py)
+outputs/figures/*.png
+outputs/results/*.csv
+outputs/results/*.json
