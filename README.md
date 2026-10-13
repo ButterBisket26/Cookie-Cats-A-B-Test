@@ -132,8 +132,8 @@ product-analytics-project/
 
 ```bash
 # Clone the repository
-git clone https://github.com/saivignesh21/Cookie-Cats-A-B-Test-.git
-cd Cookie-Cats-A-B-Test-
+git clone https://github.com/ButterBisket26/Cookie-Cats-A-B-Test.git
+cd Cookie-Cats-A-B-Test
 
 # Install dependencies
 pip install -r requirements.txt
